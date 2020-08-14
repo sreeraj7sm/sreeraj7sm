@@ -8,6 +8,7 @@ My name is Sreeraj Menon and i'm a currently pursuing MCA from Mumbai University
 - 🌱 I’m currently learning reactjs.
 - 📫 My Social Media Accounts: <br>
 [![Linkedin](https://github.com/sreeraj7sm/sreeraj7sm/raw/master/Assets/linkedin.png)](https://www.linkedin.com/in/sreeraj-menon-98a35ab8/)
+[![Academia](https://github.com/sreeraj7sm/sreeraj7sm/raw/master/Assets/academia.png)](https://independent.academia.edu/playstoreninja)
 [![Medium](https://github.com/sreeraj7sm/sreeraj7sm/raw/master/Assets/medium.png)](https://medium.com/@sreeraj7.sm)
 [![DEV](https://github.com/sreeraj7sm/sreeraj7sm/raw/master/Assets/dev.png)](https://dev.to/sreeraj7sm)
 
