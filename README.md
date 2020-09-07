@@ -3,7 +3,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Sreeraj Menon and i'm a currently pursuing MCA from Mumbai University. I am from India, living in Mumbai and currently in my final year of MCA. 
+My name is Sreeraj Menon and i am currently pursuing MCA from Mumbai University. I am from India, currently located in Mumbai and pursuing my final year of MCA. 
 - 🔭 I’m currently working on python scripts to make things easier to automate. (Using pyautogui)
 - 🌱 I’m currently learning reactjs.
 - 📫 My Social Media Accounts: <br/><br/>
