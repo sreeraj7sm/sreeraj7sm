@@ -1,4 +1,4 @@
-[![Social banner for Sreeraj Menon](https://github.com/sreeraj7sm/sreeraj7sm/raw/master/Assets/readme_gif.gif)](https://www.linkedin.com/in/sreeraj-menon-98a35ab8/)
+
 
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
